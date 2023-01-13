@@ -19,22 +19,19 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Extending iCalendar to support GUESTS and COMMENT properties"
+category: 
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-larch-calext-imip-guests-and-comments
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
-consensus: true
+consensus:
 v: 3
-area: AREA
+area: art
 workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - iCalendar
 venue:
   group: WG
   type: Working Group
@@ -45,9 +42,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Anna Larch
+    organization: Nextcloud GmbH
+    email: anna.larch@nextcloud.com
 
 normative:
 
